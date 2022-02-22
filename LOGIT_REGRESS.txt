@@ -1,0 +1,19 @@
+	(1)
+VARIABLES	Improved_seed
+	
+Network_Density	-23.09
+	(84.71)
+Neighbourhood_info	-0.35
+	(0.28)
+FARMER_TRAINING	0.29
+	(0.23)
+Head_Eduaction_level	0.02
+	(0.02)
+Group_participation	0.08
+	(0.41)
+Constant	-0.64
+	(0.55)
+	
+Observations	445
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
